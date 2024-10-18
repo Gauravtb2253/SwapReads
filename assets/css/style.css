@@ -1694,10 +1694,11 @@ body.dark-mode .pricing-card button {
 
 .lord-icon {
   margin-right: 8px;
+  color: #007bff;
 }
 
 .dark-mode .lord-icon{
-  color: black;
+  color: #007bff;
   margin-right: 8px;
 }
 
